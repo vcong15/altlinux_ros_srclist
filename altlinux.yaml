@@ -1,0 +1,180 @@
+#libconsole-bridge-dev:
+#  altlinux: 
+#python3-empy:
+#  altlinux: 
+eigen: 
+  altlinux: [eigen3]
+python3-catkin-pkg-modules:
+  altlinux: [python3-module-catkin_pkg]
+libopencv-dev:
+  altlinux: [libopencv-devel]
+python3-pytest:
+  altlinux: [python3-module-pytest]
+curl:
+  altlinux: [libcurl-devel, curl]
+python3-pycodestyle:
+  altlinux: [python3-module-pycodestyle]
+pyflakes3:
+  altlinux: [python3-module-pyflakes]
+spdlog:
+  altlinux: [libspdlog-devel]
+#fastcdr:
+#  altlinux: 
+python3-numpy: 
+  altlinux: [python3-module-numpy]
+google-mock:
+  altlinux: [libgmock-devel]
+python3-pil:
+  altlinux: [python3-module-numpy]
+gtest:
+  altlinux: [libgtest-devel]
+#rti-connext-dds-6.0.1:
+#  altlinux: 
+python3-pytest-timeout:
+  altlinux: [python3-module-pytest-timeout]
+#urdfdom_headers:
+#  altlinux: 
+python3-yaml:
+  altlinux: [python3-module-yaml]
+python3-importlib-resources:
+  altlinux: [python3-module-importlib-resources]
+opengl:
+  altlinux: [libGL-devel, libGLU-devel]
+cmake:
+  altlinux: [cmake]
+python3-nose:
+  altlinux: [python3-module-nose]
+assimp:
+  altlinux: [assimp]
+libzstd-dev:
+  altlinux: [libzstd-devel]
+bullet:
+  altlinux: [libbullet3-devel]
+python3:
+  altlinux: [python3-dev]
+python3-importlib-metadata:
+  altlinux: [python3-module-importlib-metadata]
+qtbase5-dev:
+  altlinux: [qt5-base-devel]
+libatomic:
+  altlinux: [libatomic1]
+python3-lark-parser:
+  altlinux: [python3-module-lark-parser]
+benchmark:
+  altlinux: [libbenchmark-devel]
+libxml2-utils:
+  altlinux: [xml-utils]
+python3-babeltrace:
+  altlinux: [python3-module-babeltrace]
+python3-qt5-bindings:
+  altlinux: [python3-module-PyQt5-devel, python3-module-sip-devel]
+python3-mypy:
+  altlinux: [python3-module-mypy]
+libssl-dev:
+  altlinux: [libssl-devel]
+tinyxml:
+  altlinux: [tinyxml-devel]
+python3-pkg-resources:
+  altlinux: [python3-module-pkg_resources]
+yaml:
+  altlinux: [libyaml-devel]
+ignition-math6:
+  altlinux: 
+git:
+  altlinux: [git]
+#liborocos-kdl-dev:
+#  altlinux: 
+tango-icon-theme:
+  altlinux: [tango-icon-theme]
+uncrustify:
+  altlinux: [uncrustify]
+python3-setuptools:
+  altlinux: [python-module-setuptools]
+python3-pydot:
+  altlinux: [python3-module-pydot]
+#ignition-cmake2:
+#  altlinux: 
+python3-flake8:
+  altlinux: [python3-module-flake8]
+cppcheck:
+  altlinux: [cppcheck]
+python3-rosdistro-modules:
+  altlinux: [python3-module-rosdistro]
+#python3-lttng:
+#  altlinux: 
+pkg-config: 
+  altlinux: [pkg-config]
+python3-pytest-cov:
+  altlinux: [python3-module-pytest-cov]
+#python3-pykdl:
+#  altlinux:
+pydocstyle:
+  altlinux: [python3-module-pydocstyle]
+pybind11-dev:
+  altlinux: [pybind11-devel]
+python3-dev:
+  altlinux: [python3-dev]
+libsqlite3-dev:
+  altlinux: [libsqlite3-devel]
+tinyxml2:
+  altlinux: [libtinyxml2-devel]
+yaml-cpp:
+  altlinux: [libyaml-cpp-devel]
+qt5-qmake:
+  altlinux: [qt5-base-devel]
+python3-matplotlib:
+  altlinux: [python3-module-matplotlib]
+libqt5-gui:
+  altlinux: [libqt5-gui]
+python3-psutil:
+  altlinux: [python3-module-psutil]
+python3-packaging:
+  altlinux: [python3-module-packaging]
+clang-tidy:
+  altlinux: [clang-tools]
+libqt5-widgets:
+  altlinux: [libqt5-widgets]
+python3-pytest-mock:
+  altlinux: [python3-module-pytest-mock]
+file:
+  altlinux: [file]
+clang-format:
+  altlinux: [clang-tools]
+python3-argcomplete:
+  altlinux: [python3-module-argcomplete]
+python3-cryptography:
+  altlinux: [python3-module-cryptography]
+openssl:
+  altlinux: [openssl]
+python3-pygraphviz:
+  altlinux: [python3-module-pygraphviz]
+libxrandr:
+  altlinux: [libXrandr-devel]
+python3-cairo:
+  altlinux: [python-module-pycairo-devel]
+graphviz:
+  altlinux: [graphviz]
+acl:
+  altlinux: [acl, libacl-devel]
+libxaw:
+  altlinux: [libXaw-devel]
+python3-netifaces:
+  altlinux: [python3-module-netifaces]
+libcunit-dev:
+  altlinux: [cunit]
+libqt5-opengl:
+  altlinux: [libqt5-opengl]
+libqt5-core:
+  altlinux: [libqt5-core]
+python3-lxml:
+  altlinux: [python3-module-lxml]
+doxygen:
+  altlinux: [doxygen]
+libx11-dev:
+  altlinux: [libX11-devel]
+libfreetype6-dev:
+  altlinux: [libfreetype-devel]
+libfreetype6:
+  altlinux: [libfreetype]
+asio:
+  altlinux: [asio-devel]
