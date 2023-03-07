@@ -1,7 +1,7 @@
 #libconsole-bridge-dev:
 #  altlinux: 
-#python3-empy:
-#  altlinux: 
+python3-empy:
+  altlinux: [python3-module-empy]
 eigen: 
   altlinux: [eigen3]
 python3-catkin-pkg-modules:
