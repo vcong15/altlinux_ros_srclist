@@ -180,7 +180,8 @@ asio:
   altlinux: [asio-devel]
 cppunit:
   altlinux: [cppunit-devel]
-catkin:
-  altlinux: [catkin]
 python3-future:
   altlinux: [python3-module-future]
+catkin:
+  altlinux: [catkin]
+
