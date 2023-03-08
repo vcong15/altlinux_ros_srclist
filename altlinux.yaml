@@ -1,5 +1,5 @@
-#libconsole-bridge-dev:
-#  altlinux: 
+libconsole-bridge-dev:
+  altlinux: [libconsole-bridge-devel]
 python3-empy:
   altlinux: [python3-module-empy]
 eigen: 
