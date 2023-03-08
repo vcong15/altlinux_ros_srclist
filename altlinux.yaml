@@ -178,3 +178,5 @@ libfreetype6:
   altlinux: [libfreetype]
 asio:
   altlinux: [asio-devel]
+cppunit:
+  altlinux: [cppunit-devel]
