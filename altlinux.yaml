@@ -182,3 +182,5 @@ cppunit:
   altlinux: [cppunit-devel]
 catkin:
   altlinux: [catkin]
+python-future:
+  altlinux: [python3-module-future]
