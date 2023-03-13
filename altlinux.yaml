@@ -83,7 +83,7 @@ ignition-math6:
 git:
   altlinux: [git]
 liborocos-kdl-dev:
-  altlinux: liborocos-kdl-devel
+  altlinux: [liborocos-kdl-devel]
 tango-icon-theme:
   altlinux: [tango-icon-theme]
 uncrustify:
@@ -100,14 +100,14 @@ cppcheck:
   altlinux: [cppcheck]
 python3-rosdistro-modules:
   altlinux: [python3-module-rosdistro]
-#python3-lttng:
-#  altlinux: 
+python3-lttng:
+  altlinux: [python3-module-lttng] 
 pkg-config: 
   altlinux: [pkg-config]
 python3-pytest-cov:
   altlinux: [python3-module-pytest-cov]
-#python3-pykdl:
-#  altlinux:
+python3-pykdl:
+  altlinux: [python3-module-pykdl]
 pydocstyle:
   altlinux: [python3-module-pydocstyle]
 pybind11-dev:
