@@ -82,8 +82,8 @@ ignition-math6:
   altlinux: 
 git:
   altlinux: [git]
-#liborocos-kdl-dev:
-#  altlinux: 
+liborocos-kdl-dev:
+  altlinux: liborocos-kdl-devel
 tango-icon-theme:
   altlinux: [tango-icon-theme]
 uncrustify:
