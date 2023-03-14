@@ -21,11 +21,11 @@ spdlog:
 #fastcdr:
 #  altlinux: 
 python3-numpy: 
-  altlinux: [python3-module-numpy]
+  altlinux: [python3-module-numpy, libnumpy-py3-devel]
 google-mock:
   altlinux: [libgmock-devel]
 python3-pil:
-  altlinux: [python3-module-numpy]
+  altlinux: [python3-module-Pillow]
 gtest:
   altlinux: [libgtest-devel]
 #rti-connext-dds-6.0.1:
