@@ -89,7 +89,7 @@ tango-icon-theme:
 uncrustify:
   altlinux: [uncrustify]
 python3-setuptools:
-  altlinux: [python-module-setuptools]
+  altlinux: [python3-module-setuptools]
 python3-pydot:
   altlinux: [python3-module-pydot]
 #ignition-cmake2:
