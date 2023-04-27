@@ -184,4 +184,5 @@ python3-future:
   altlinux: [python3-module-future]
 catkin:
   altlinux: [catkin]
-
+libcunit-dev:
+  altlinux: [CUnit-devel]
