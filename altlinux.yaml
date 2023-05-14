@@ -186,3 +186,11 @@ catkin:
   altlinux: [catkin]
 libcunit-dev:
   altlinux: [CUnit-devel]
+python3-jsonschema:
+  altlinux: [python3-module-jsonschema]
+lttng-tools:
+  altlinux: [lttng-tools]
+liblttng-ust-devel:
+  altlinux: [liblttng-ust-devel]
+libyaml-dev:
+  altlinux: [libyaml-devel]
