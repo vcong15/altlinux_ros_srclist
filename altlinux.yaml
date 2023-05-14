@@ -190,7 +190,9 @@ python3-jsonschema:
   altlinux: [python3-module-jsonschema]
 lttng-tools:
   altlinux: [lttng-tools]
-liblttng-ust-devel:
+liblttng-ust-dev:
   altlinux: [liblttng-ust-devel]
 libyaml-dev:
+  altlinux: [libyaml-devel]
+libyaml:
   altlinux: [libyaml-devel]
